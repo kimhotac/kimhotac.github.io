@@ -20,7 +20,7 @@ title                    : "Hello world"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Kim Ho Tak"
-description              : "An amazing website."
+description              : "hotak's first step."
 url                      : "https://kimhotac.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
