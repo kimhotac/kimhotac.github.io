@@ -55,7 +55,8 @@ plt.show()
 
 
     
-![png](output_6_0.png)
+![output_6_0](https://user-images.githubusercontent.com/114737603/232276592-6b468309-934e-4b38-aacc-cf8c8609218a.png)
+
     
 
 
@@ -74,7 +75,7 @@ plt.show()
 
 
     
-![png](output_8_0.png)
+![output_8_0](https://user-images.githubusercontent.com/114737603/232276602-04665a6c-b316-418b-a9a7-3ca4fac5034e.png)
     
 
 
@@ -130,7 +131,7 @@ plt.show()
 
 
     
-![png](output_13_0.png)
+![output_13_0](https://user-images.githubusercontent.com/114737603/232276605-478dd921-cead-4c7f-a719-8b235577d19c.png)
     
 
 
@@ -195,7 +196,7 @@ z로 표시되는 이 예측값은 0과 1 사이의 확률 값으로 변환된�
 
 ### Sigmoid Function
 
-![Sigmoid Function](https://miro.medium.com/max/970/1*Xu7B5y9gp0iL5ooBj7LtWw.png)
+![1_Xu7B5y9gp0iL5ooBj7LtWw](https://user-images.githubusercontent.com/114737603/232276652-2acbac7e-3ce5-4b0d-89bf-65df896b71a3.png)
 
 ## **Decision boundary**
 
@@ -2875,7 +2876,7 @@ fig.set_ylabel('WindSpeed3pm')
 
 
     
-![png](output_112_1.png)
+![output_112_1](https://user-images.githubusercontent.com/114737603/232276842-9de10b09-b4e5-4ff8-99ef-e40300255248.png)
     
 
 
@@ -2926,7 +2927,7 @@ fig.set_ylabel('RainTomorrow')
 
 
     
-![png](output_115_1.png)
+![output_115_1](https://user-images.githubusercontent.com/114737603/232276835-540e9d99-a7c8-4b54-ae2f-76359036cf6a.png)
     
 
 
@@ -5417,7 +5418,7 @@ sns.heatmap(cm_matrix, annot=True, fmt='d', cmap='YlGnBu')
 
 
     
-![png](output_217_1.png)
+![output_217_1](https://user-images.githubusercontent.com/114737603/232276792-b2ace6c6-081d-452b-8581-91d04869ccc0.png)
     
 
 
@@ -5812,7 +5813,7 @@ plt.ylabel('Frequency')
 
 
     
-![png](output_244_1.png)
+![output_244_1](https://user-images.githubusercontent.com/114737603/232276783-daf5cfe3-eefb-445b-97e4-1510852e4046.png)
     
 
 
@@ -6030,7 +6031,7 @@ plt.show()
 
 
     
-![png](output_250_0.png)
+![output_250_0](https://user-images.githubusercontent.com/114737603/232276774-6bd802fb-a5d2-42af-a32d-d90572170fd7.png)
     
 
 
