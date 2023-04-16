@@ -23,8 +23,8 @@ $\hat y = \dfrac{1}{1+\exp{(\theta_0 + x_1 \cdot \theta_1)}}$
 로지스틱 함수(Logistic function)를 해석하려면 odd와 로짓 함수(logit function)의 개념이 필요하다.
 
 어떤 한 사건이 0과 1로 일어난다고 가정 했을 때(=베르누이 분포)
-* 1이 일어난 사건의 확률을 $P$
-* 0이 일어난 사건의 확률은 $1-P$
+* 1이 일어난 사건의 확률을 $ P $
+* 0이 일어난 사건의 확률은 $ 1-P $
 
 $Odd=\dfrac{P}{1-P}$
 
@@ -32,12 +32,12 @@ $logit function =\log (\dfrac{P}{1-P}) \$
 
 
 **로짓 함수의 특징**
-* $0<P≤1$
-* $-∞<Y<∞$
+* $ 0<P≤1 $
+* $ -∞\<Y<∞ $ 
 
 **로짓 변환(logit transform)**
 
-$log(Odd) =log(\dfrac{\dfrac{1}{1+\exp{(\theta_0 + x_1 \cdot \theta_1)}}}{1-\dfrac{1}{1+\exp{(\theta_0 + x_1 \cdot \theta_1)}}})=log(\exp{(\theta_0 + x_1 \cdot \theta_1)})=\theta_0 + x_1 \cdot \theta_1$
+$ log(Odd) =log(\dfrac{\dfrac{1}{1+\exp{(\theta_0 + x_1 \cdot \theta_1)}}}{1-\dfrac{1}{1+\exp{(\theta_0 + x_1 \cdot \theta_1)}}})=log(\exp{(\theta_0 + x_1 \cdot \theta_1)})=\theta_0 + x_1 \cdot \theta_1 $
 
 아래는 로짓 함수를 0.01과 0.99사이의 값을 그래프로 구현한 것이다.
 
