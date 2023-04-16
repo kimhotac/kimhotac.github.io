@@ -196,7 +196,7 @@ z로 표시되는 이 예측값은 0과 1 사이의 확률 값으로 변환된�
 
 ### Sigmoid Function
 
-![1_Xu7B5y9gp0iL5ooBj7LtWw](https://user-images.githubusercontent.com/114737603/232276652-2acbac7e-3ce5-4b0d-89bf-65df896b71a3.png)
+![1_Xu7B5y9gp0iL5ooBj7LtWw](https://user-images.githubusercontent.com/114737603/232277182-b4191d69-c401-45a4-802c-7f46ac43ce39.png)
 
 ## **Decision boundary**
 
@@ -210,7 +210,7 @@ p < 0.5 => 클래스 = 0
 
 일반적으로 의사 결정 경계는 0.5로 설정된다. 따라서 확률 값이 0.8(> 0.5)인 경우, 이 관측값을 클래스 1에 매핑한다. 마찬가지로 확률 값이 0.2(<0.5)인 경우, 이 관측값을 클래스 0에 매핑한다. 이는 아래 그래프에 표시된다.
 
-![Decision boundary in sigmoid function](https://ml-cheatsheet.readthedocs.io/en/latest/_images/logistic_regression_sigmoid_w_threshold.png)
+![asdf](https://user-images.githubusercontent.com/114737603/232277488-6a94bfbf-1bda-4700-b306-c9a1a59a8b81.png)
 
 ## **예측하기**
 
