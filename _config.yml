@@ -104,15 +104,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kim Ho Tak"
+  name             : "Kim HoTak"
   avatar           : "festival_pic.jpg"
   bio              : "MY first step"
-  location         : "Korea"
+  location         : "Hankyong National University"
   email            : "rlaghxkr@gmail.com"
   links:
     - label: "Email"
-      icon: "rlaghxkr@gmail.com"
-      # url: "mailto:your.name@email.com"
+      icon: "fas fa-fw fa-envelope-square"
+       url: "rlaghxkr@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -123,8 +123,8 @@ author:
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
-      icon: "https://github.com/kimhotac"
-      # url: "https://github.com/"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/kimhotac"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
