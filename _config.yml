@@ -105,8 +105,8 @@ analytics:
 # Site Author
 author:
   name             : "Kim HoTak"
-  avatar           : ""
-  bio              : ""
+  #avatar           : ""
+  #bio              : ""
   location         : "Hankyong National University"
   email            : "rlaghxkr@gmail.com"
   links:
