@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Step by step"
+title                    : "KimHoTak's"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Kim Ho Tak"
-description              : "First step."
+description              : ""
 url                      : "https://kimhotac.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "kimhotac/kimhotac.github.io"
@@ -105,8 +105,8 @@ analytics:
 # Site Author
 author:
   name             : "Kim HoTak"
-  avatar           : "festival_pic.jpg"
-  bio              : "MY first step"
+  avatar           : ""
+  bio              : ""
   location         : "Hankyong National University"
   email            : "rlaghxkr@gmail.com"
   links:
