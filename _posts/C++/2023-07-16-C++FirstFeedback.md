@@ -62,14 +62,12 @@ int main()
     unsigned char u_c = 65; //A의 ascii코드
     signed char s_c = 65; //A의 ascii코드
     int a = 65; //65 정수값
-    cout << "u_c : " << u_c <<", s_c : "<< s_c;
-    cout << endl << "char(int) : " << char(a);
+    cout << "u_c : " << u_c <<", s_c : "<< s_c << ", char(int) : " << char(a);
     return 0;
 }
 ```
 
 output
->u_c : A, s_c : A
->char(int) : A
+>u_c : A, s_c : A, char(int) : A
 
 위처럼 코드에서 cout은 char을 문자열로만 출력한다. 정수형으로 출력하려면 형 변환이 필요하다.
